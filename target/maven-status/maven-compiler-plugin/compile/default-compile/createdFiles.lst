@@ -1,0 +1,13 @@
+anhkhoapham\albumswebapp\servlets\download\DownloadServlet.class
+anhkhoapham\albumswebapp\business\user\User.class
+anhkhoapham\albumswebapp\util\CookieUtil.class
+anhkhoapham\albumswebapp\JakartaRestConfiguration.class
+anhkhoapham\albumswebapp\songs\AlbumInfo.class
+anhkhoapham\albumswebapp\songs\Albums.class
+anhkhoapham\albumswebapp\songs\Band8601.class
+anhkhoapham\albumswebapp\songs\JR01.class
+anhkhoapham\albumswebapp\business\user\UserInfo.class
+anhkhoapham\albumswebapp\songs\PF02.class
+anhkhoapham\albumswebapp\songs\PF01.class
+anhkhoapham\albumswebapp\songs\SongInfo.class
+anhkhoapham\albumswebapp\resources\JakartaEE10Resource.class
